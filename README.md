@@ -102,22 +102,6 @@ porque son mi refugio para imaginar y explorar otros mundos.
 
 ---
 
-# 🛠️ Proyectos
-
-<div align="center">
-
-<a href="https://github.com/xxkyw01/sistema_citas_medicas_laravel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xxkyw01&repo=sistema_citas_medicas_laravel&theme=radical" alt="Proyecto"/>
-</a>
-
-<a href="https://github.com/xxkyw01/IntranetProveedores">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xxkyw01&repo=IntranetProveedores&theme=radical" alt="Proyecto"/>
-</a>
-
-</div>
-
----
-
 # 📊 Estadísticas de GitHub
 
 <div align="center">
